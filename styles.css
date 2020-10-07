@@ -1,6 +1,3 @@
-h1 {
-    padding: 10px;
-}
 .imgHeader {
     background-image: url("Cosmic_fireworks.jpg");
     background-position: center; /* Center the image */
@@ -14,4 +11,7 @@ h1 {
 }
 .copyright {
     color: gray;
+    margin-top: auto;
+
+    display: block;
 }
