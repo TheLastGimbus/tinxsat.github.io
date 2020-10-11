@@ -1,17 +1,12 @@
 .imgHeader {
-    background-image: url("Cosmic_fireworks.jpg");
+    background-image: url("back.jpg");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover;
-    margin-top: auto;
-    margin-bottom: auto;
-    height: 400px;
     color: white;
-    padding: 70px 0;
 }
 .copyright {
     color: gray;
     margin-top: auto;
-
-    display: block;
+    #display: inline;
 }
